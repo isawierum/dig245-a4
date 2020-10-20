@@ -8,21 +8,25 @@
 h1{
   color: #d6e9ff;
   font-family: 'Signika', sans-serif;
+  font-size: 5rem;
 }
 
 h2 {
   color:#2d8cff;
   font-family: 'Signika', sans-serif;
+  font-size: 4.17rem;
 }
 
 .zoom{
   color: #2d8cff;
+  font-size: 7.67rem;
 
 }
 
 h3{
   color: #d6e9ff;
   font-family: 'Signika', sans-serif;
+  font-size: 3.12rem;
 
 }
 
@@ -33,6 +37,19 @@ h3{
 h4{
   color:#82bbff;
   font-family: 'Signika', sans-serif;
+  font-size: 2.5rem;
+}
+
+.darktitle{
+  height: 239px;
+  width: 922px;
+  background-color: #180b5b;
+}
+
+.purpletitle{
+  height: 239px;
+  width: 922px;
+  background-color: #777aad;
 }
 
 /* css */
