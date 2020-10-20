@@ -1,2 +1,38 @@
 
+
+.container {
+/*  background-color: #d6e9ff;*/
+
+}
+
+h1{
+  color: #d6e9ff;
+  font-family: 'Signika', sans-serif;
+}
+
+h2 {
+  color:#2d8cff;
+  font-family: 'Signika', sans-serif;
+}
+
+.zoom{
+  color: #2d8cff;
+
+}
+
+h3{
+  color: #d6e9ff;
+  font-family: 'Signika', sans-serif;
+
+}
+
+.h4black{
+  color: #0d0630;
+}
+
+h4{
+  color:#82bbff;
+  font-family: 'Signika', sans-serif;
+}
+
 /* css */
