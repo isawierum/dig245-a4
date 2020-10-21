@@ -1,7 +1,7 @@
 
 
-.container {
-/*  background-color: #d6e9ff;*/
+.container-fluid {
+background-color: #d6e9ff;
 
 }
 
@@ -15,7 +15,8 @@ h1{
 h2 {
   color:#2d8cff;
   font-family: 'Signika', sans-serif;
-  font-size: 4.17rem;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
 }
 
 .zoom{
@@ -27,7 +28,8 @@ h2 {
 h3{
   color: #d6e9ff;
   font-family: 'Signika', sans-serif;
-  font-size: 3.12rem;
+  font-size: 1.9rem;
+
 
 }
 
@@ -38,19 +40,49 @@ h3{
 h4{
   color:#82bbff;
   font-family: 'Signika', sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
+  padding-bottom: 50px;
 }
 
-.darktitle{
-  height: 239px;
-  width: 922px;
+.darkbox{
   background-color: #180b5b;
+  padding-top: 90px;
+  z-index: 1;
 }
 
-.purpletitle{
+.purplebox{
+  box-shadow: -30px 30px #777aad;
+  z-index: 2;
+}
+
+.bluebox{
+
+  box-shadow: -60px 60px #82bbff;
+  z-index: 3;
+
+}
+
+.titlesize{
   height: 239px;
   width: 922px;
-  background-color: #777aad;
+
 }
 
+.tasksize{
+  height: 950px;
+  width: 922px;
+}
+
+.conclusion{
+  padding-top: 150px;
+}
+
+.background{
+  padding-top: 150px;
+}
+
+.images{
+  padding-top: 60px;
+
+}
 /* css */
